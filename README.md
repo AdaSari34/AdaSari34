@@ -65,5 +65,5 @@ This project was developed as a team collaboration and prepared as part of a **T
 
 * 📧 Email: [sevvalsari1@icloud.com](mailto:sevvalsari1@icloud.com)
 * 💼 LinkedIn: [Ada Şevval Sarı](https://www.linkedin.com/in/ada-%C5%9Fevval-sari-81543b312/)
-* 💻 GitHub: https://github.com/AdaSari34
+* 💻 github.com/AdaSevvalSari
 
